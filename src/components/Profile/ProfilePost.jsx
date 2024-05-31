@@ -111,7 +111,7 @@ const ProfilePost = ({ post }) => {
 				<ModalOverlay />
 				<ModalContent>
 					<ModalCloseButton />
-					<ModalBody bg={"black"} pb={5}>
+					<ModalBody bg={"white"} pb={5}>
 						<Flex
 							gap='4'
 							w={{ base: "90%", sm: "70%", md: "full" }}
